@@ -1,3 +1,4 @@
 # RayhanAli97
 //The Coding
-Open index in chrome browser. No backend code. 
+To run the site, download the zip file Tastyburgers.
+Open index in chrome browser. 
