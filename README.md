@@ -2,10 +2,9 @@
 //Project: front-end website build using HTML5/CSS
 Theme: Restaurant
 
-Here is a project part of my University module. I was reuqired to design a friendly user-interface in relation to our discussed lectures with interest. We are required to pic a topic of our choice.  
+Here is a project part of my University module. I was reuqired to design a friendly user-interface in relation to our discussed lectures with interest. We are required to choose a topic of our choice.  
 
-Please open the index homepage through the chrome browser for best experience. Please 
-keep all files in its folders.   
+  
 
 Navigational features: 
 
